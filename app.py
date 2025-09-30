@@ -17,7 +17,6 @@ def bienvenida():
     <p>Creado por: Karla Michelle Andres Cruz</p>
     <p>Grado y Grupo: 5°D </p>
     <p>Carrera: Programacion</p>
-    
     <p>Fecha: 30 de septiembre del 2025</p>
     '''
     return mensaje1
